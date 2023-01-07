@@ -1,0 +1,9 @@
+.userinput{
+    width: 100%;
+    min-height: 100px;
+}
+
+.userinput__container
+{
+    width: 100%;
+}
