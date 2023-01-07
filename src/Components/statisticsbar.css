@@ -1,0 +1,23 @@
+.statsbar__container{
+    display: flex;
+    flex-direction: row;
+
+    min-width: 60%;
+
+    justify-content: center;
+}
+
+.statsbar-item__container{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.statsbar__title{
+    margin: 0;
+    margin-bottom: 15px;
+}
