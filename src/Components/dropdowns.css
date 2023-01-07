@@ -1,0 +1,30 @@
+.dropdowns__container{
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 20px;
+}
+
+.text__container{
+    min-width: 100%;
+
+    padding: 3px;
+}
+
+.text-dropdown{
+    min-width: 100%;
+
+    padding: 7px;
+}
+
+.time__container{
+    min-width: 20%;
+
+    padding: 3px;
+}
+
+.time-dropdown{
+    min-width: 100%;
+
+    padding: 7px;
+}
