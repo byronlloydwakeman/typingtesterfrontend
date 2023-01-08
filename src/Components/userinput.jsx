@@ -104,7 +104,7 @@ const UserInput = () => {
                     targetInput : document.getElementById("texts").value
                 })
 
-                fetch(`http://127.0.0.1:8000/CalcAverageWordsPerMinute/Post`, {
+                fetch(`https://wzowik.deta.dev/CalcAverageWordsPerMinute/Post`, {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
